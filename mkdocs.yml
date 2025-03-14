@@ -1,0 +1,7 @@
+site_name: Halifax News Express
+nav:
+  - Home: index.md
+  - Econmy: economy/
+  - Government: government/
+  - About: about.md
+theme: readthedocs
