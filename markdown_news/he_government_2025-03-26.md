@@ -1,30 +1,12 @@
-# Halifax News Articles - economy_2025-03-14
+# Halifax News Articles - government_2025-03-26
 
 *Generated on 2025-03-26 17:57:28*
 
-## Woman who defamed nurse on Facebook ordered to pay more than $60,000
-
-**Authors:** Jennifer Henderson, Philip Moscovitch, Joan Baxter, Suzanne Rent
-
-**Published:** 2025-03-13T11:29:09+00:00
-
-**Keywords:** woman, defamed, nurse, facebook, ordered, pay, 60, 000, uncover, dead, wrong, podcast, priced, 1995, brenda, brutally, murdered, dartmouth, apartment, building, 1999, glen, assoun, guilty, murder, served, 17, prison, maintaining, innocence, 2019, fully, exonerated, halifax, examiner’s
-
-**Summary:** PRICED OUT UNCOVER: DEAD WRONG In 1995, Brenda Way was brutally murdered behind a Dartmouth apartment building.
-In 1999, Glen Assoun was found guilty of the murder, and served 17 years in prison while maintaining his innocence.
-In 2019, he was fully exonerated.
-Halifax Examiner’s Tim Bousquet tells Assoun’s story on the CBC podcast series Uncover: Dead Wrong.
-Click here to listen to the podcast.
-
-**Source:** [https://www.halifaxexaminer.ca/justice/crime-and-courts/woman-who-defamed-nurse-on-facebook-ordered-to-pay-more-than-60000/](https://www.halifaxexaminer.ca/justice/crime-and-courts/woman-who-defamed-nurse-on-facebook-ordered-to-pay-more-than-60000/)
-
----
-
 ## Uranium exploration and mining in Nova Scotia – the radioactive issue that Houston's government reactivated
 
-**Authors:** Joan Baxter, Philip Moscovitch, Jennifer Henderson, Suzanne Rent
+**Authors:** Joan Baxter, Suzanne Rent, Tim Bousquet, Madiha Mughees
 
-**Published:** 2025-03-13T22:13:03+00:00
+**Published:** 2025-03-13 22:13:03
 
 **Keywords:** radioactive, houston's, reactivated, uranium, mining, nova, scotia, exploration, issue, mans, thomas, nuclear, ban, energy, emerman, report, saskatchewan, province, industry, safety, houston, kirby, inquiry, examiner, public, mines, risks, association, jobs, 1982, health, noted, moratorium, environmental, safe
 
@@ -38,29 +20,29 @@ To what extent do you support or oppose the mining and exploration of uranium in
 
 ---
 
-## 'A wee glimpse of you': the short paragraph nobody wants to write
+## Woman who defamed nurse on Facebook ordered to pay more than $60,000
 
-**Authors:** Philip Moscovitch, Joan Baxter, Jennifer Henderson, Suzanne Rent
+**Authors:** Jennifer Henderson, Philip Moscovitch, Suzanne Rent, Joan Baxter
 
-**Published:** 2025-03-14T14:35:40+00:00
+**Published:** 2025-03-13 11:29:09
 
-**Keywords:** wee, glimpse, short, paragraph, write, bio, canada, everwind, mining, canadian, person, uranium, nova, seafood, click, don’t, i’m, writing, send, item, tugboats, copy, link, writes, fuels, release, green, good, imported, caught, it’s, work, read, money, job
+**Keywords:** woman, defamed, nurse, facebook, ordered, pay, 60, 000, uncover, dead, wrong, podcast, priced, 1995, brenda, brutally, murdered, dartmouth, apartment, building, 1999, glen, assoun, guilty, murder, served, 17, prison, maintaining, innocence, 2019, fully, exonerated, halifax, examiner’s
 
-**Summary:** Uranium mining Joan Baxter’s latest article looks at the push for uranium mining in Nova Scotia, the myths being promulgated by those who want an end to the uranium ban, and the history of how that ban came to be.
-Then with no warning, 16 years later, on Jan. 21, 2025, Premier Tim Houston wrote to his caucus decrying the bans on uranium mining and fracking for onshore fossil gas.
-Before that November grant to EverWind, there was US$125 million (now worth C$174.5 million), from Export Development Canada.
-(Send this item: right click and copy this link) NOTICED ‘A wee glimpse of you’: the short paragraph nobody wants to write Every writer I know hates writing their own bio.
-“A wee glimpse of you.” Do that, and you’ve done your job.
+**Summary:** PRICED OUT UNCOVER: DEAD WRONG In 1995, Brenda Way was brutally murdered behind a Dartmouth apartment building.
+In 1999, Glen Assoun was found guilty of the murder, and served 17 years in prison while maintaining his innocence.
+In 2019, he was fully exonerated.
+Halifax Examiner’s Tim Bousquet tells Assoun’s story on the CBC podcast series Uncover: Dead Wrong.
+Click here to listen to the podcast.
 
-**Source:** [https://www.halifaxexaminer.ca/morning-file/a-wee-glimpse-of-you-the-short-paragraph-nobody-wants-to-write/](https://www.halifaxexaminer.ca/morning-file/a-wee-glimpse-of-you-the-short-paragraph-nobody-wants-to-write/)
+**Source:** [https://www.halifaxexaminer.ca/justice/crime-and-courts/woman-who-defamed-nurse-on-facebook-ordered-to-pay-more-than-60000/](https://www.halifaxexaminer.ca/justice/crime-and-courts/woman-who-defamed-nurse-on-facebook-ordered-to-pay-more-than-60000/)
 
 ---
 
 ## Leaving X marks an obvious spot where we fight fascists
 
-**Authors:** Suzanne Rent, Philip Moscovitch, Joan Baxter, Jennifer Henderson
+**Authors:** Suzanne Rent, Tim Bousquet, Jennifer Henderson, Madiha Mughees, Philip Moscovitch
 
-**Published:** 2025-03-13T13:11:23+00:00
+**Published:** 2025-03-13 13:11:23
 
 **Keywords:** marks, obvious, spot, fight, fascists, x, leaving, halifax, nova, media, transit, scotia, social, click, contract, staff, hrm, report, message, send, item, copy, link, it’s, gerus, car, talk, coun, facebook, 000, meisner, public, bridge, jobs, i’m
 
@@ -74,11 +56,29 @@ This is more than just leaving a social media platform, though.
 
 ---
 
+## 'A wee glimpse of you': the short paragraph nobody wants to write
+
+**Authors:** Philip Moscovitch, Jennifer Henderson, Suzanne Rent, Tim Bousquet
+
+**Published:** 2025-03-14 14:35:40
+
+**Keywords:** wee, glimpse, short, paragraph, write, bio, canada, everwind, mining, canadian, person, uranium, nova, seafood, click, don’t, i’m, writing, send, item, tugboats, copy, link, writes, fuels, release, green, good, imported, caught, it’s, work, read, money, job
+
+**Summary:** Uranium mining Joan Baxter’s latest article looks at the push for uranium mining in Nova Scotia, the myths being promulgated by those who want an end to the uranium ban, and the history of how that ban came to be.
+Then with no warning, 16 years later, on Jan. 21, 2025, Premier Tim Houston wrote to his caucus decrying the bans on uranium mining and fracking for onshore fossil gas.
+Before that November grant to EverWind, there was US$125 million (now worth C$174.5 million), from Export Development Canada.
+(Send this item: right click and copy this link) NOTICED ‘A wee glimpse of you’: the short paragraph nobody wants to write Every writer I know hates writing their own bio.
+“A wee glimpse of you.” Do that, and you’ve done your job.
+
+**Source:** [https://www.halifaxexaminer.ca/morning-file/a-wee-glimpse-of-you-the-short-paragraph-nobody-wants-to-write/](https://www.halifaxexaminer.ca/morning-file/a-wee-glimpse-of-you-the-short-paragraph-nobody-wants-to-write/)
+
+---
+
 ## NDP urging Nova Scotians to speak up about Houston government's 'overreach'
 
-**Authors:** Jennifer Henderson, Philip Moscovitch, Joan Baxter, Suzanne Rent
+**Authors:** Jennifer Henderson, Tim Bousquet, Suzanne Rent, Madiha Mughees
 
-**Published:** 2025-03-13T19:06:07+00:00
+**Published:** 2025-03-13 19:06:07
 
 **Keywords:** urging, government's, overreach, nova, houston, speak, scotians, ndp, chender, public, universities, committee, proposed, premier, bills, propose, legislation, legislature, week, information, leader, citizens, amendments, release, thursday’s, it’s, tim, pass, number, journalists, briefing, called, powers, law, authority
 

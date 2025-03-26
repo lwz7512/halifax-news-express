@@ -9,8 +9,20 @@ def convert_json_to_markdown():
     """Convert JSON files in the data folder to Markdown format."""
     
     data_dir = 'data'
-    output_dir = 'markdown_news'
     docs_dir = 'docs'
+    output_dir = 'markdown_news'
+
+    # create new index.md file under `economy` folder
+    index_economy_path = os.path.join(docs_dir, 'economy', 'index.md')
+    with open(index_economy_path, 'w') as f:
+        f.write("# Article List for Economy Category\n\n")
+    
+    # create new index.md file under `government` folder
+    index_government_path = os.path.join(docs_dir, 'government', 'index.md')
+    with open(index_government_path, 'w') as f:
+        f.write("# Article List for Government Category\n\n")
+
+    # TODO: create new index.md file under other folders under docs folder...
     
     # Create output directory if it doesn't exist
     if not os.path.exists(output_dir):
@@ -19,6 +31,8 @@ def convert_json_to_markdown():
     data_dir = os.path.join(os.getcwd(), data_dir)
     # Use the glob module to find all files in the current directory with a ".json" extension.
     json_files = glob.glob(data_dir + '/*.json')
+
+    # iterate over the json files under `data` folder,
     # Sort the json files by creation time in descending order
     for json_path in sorted(json_files, key=os.path.getctime, reverse=True):
         # get the filename from the json_path

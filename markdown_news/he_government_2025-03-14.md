@@ -1,6 +1,6 @@
 # Halifax News Articles - government_2025-03-14
 
-*Generated on 2025-03-14 15:26:02*
+*Generated on 2025-03-26 17:57:28*
 
 ## NDP urging Nova Scotians to speak up about Houston government's 'overreach'
 
