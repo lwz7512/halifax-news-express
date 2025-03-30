@@ -1,6 +1,6 @@
 # Halifax News Articles - government_2025-03-26
 
-*Generated on 2025-03-26 17:57:28*
+*Generated on 2025-03-30 13:07:58*
 
 ## Uranium exploration and mining in Nova Scotia – the radioactive issue that Houston's government reactivated
 

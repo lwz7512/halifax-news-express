@@ -1,6 +1,6 @@
 # Halifax News Articles - economy_2025-03-26
 
-*Generated on 2025-03-26 17:57:28*
+*Generated on 2025-03-30 13:07:58*
 
 ## Most goods, services Halifax buys come from Canada, council learns
 

@@ -1,6 +1,8 @@
 site_name: Halifax News Express
 nav:
   - Home: index.md
+  - Local: local/
+  - Atlantic: atlantic/
   - Econmy: economy/
   - Government: government/
   - About: about.md

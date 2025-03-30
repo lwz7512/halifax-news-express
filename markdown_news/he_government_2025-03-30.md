@@ -1,24 +1,6 @@
-# Halifax News Articles - government_2025-03-26
+# Halifax News Articles - government_2025-03-30
 
 *Generated on 2025-03-30 13:07:58*
-
-## Uranium exploration and mining in Nova Scotia – the radioactive issue that Houston's government reactivated
-
-**Authors:** Joan Baxter, Suzanne Rent, Tim Bousquet, Madiha Mughees
-
-**Published:** 2025-03-13 22:13:03
-
-**Keywords:** radioactive, houston's, reactivated, uranium, mining, nova, scotia, exploration, issue, mans, thomas, nuclear, ban, energy, emerman, report, saskatchewan, province, industry, safety, houston, kirby, inquiry, examiner, public, mines, risks, association, jobs, 1982, health, noted, moratorium, environmental, safe
-
-**Summary:** It’s that long ago that citizens in Nova Scotia first became concerned about the radioactive issue of uranium mining and exploration in Nova Scotia, and mounted an informed and impassioned campaign to have it stopped.
-The lawsuit eventually wound up in the Supreme Court of Nova Scotia, and the jury spent five hours deliberating before finding Smyth innocent of libel.
-Writes MANS: Nova Scotia had a boom in uranium exploration from approximately 1976 to 1981.
-Uranium mining today is very different from what it was four decades ago when Nova Scotia banned it.
-To what extent do you support or oppose the mining and exploration of uranium in Nova Scotia?
-
-**Source:** [https://www.halifaxexaminer.ca/dismantling-democracy/uranium-exploration-and-mining-in-nova-scotia-the-radioactive-issue-that-houstons-government-reactivated/](https://www.halifaxexaminer.ca/dismantling-democracy/uranium-exploration-and-mining-in-nova-scotia-the-radioactive-issue-that-houstons-government-reactivated/)
-
----
 
 ## Woman who defamed nurse on Facebook ordered to pay more than $60,000
 
@@ -56,6 +38,24 @@ This is more than just leaving a social media platform, though.
 
 ---
 
+## NDP urging Nova Scotians to speak up about Houston government's 'overreach'
+
+**Authors:** Jennifer Henderson, Tim Bousquet, Suzanne Rent, Madiha Mughees
+
+**Published:** 2025-03-13 19:06:07
+
+**Keywords:** urging, government's, overreach, nova, houston, speak, scotians, ndp, chender, public, universities, committee, proposed, premier, bills, propose, legislation, legislature, week, information, leader, citizens, amendments, release, thursday’s, it’s, tim, pass, number, journalists, briefing, called, powers, law, authority
+
+**Summary:** There are a number of bills that propose giving the government more control over transportation, universities, and around what qualifies as a legitimate freedom of information request.
+NDP Leader Claudia Chender invited journalists to a briefing Thursday where she called on all citizens concerned about “overreach” and the extension of provincial powers to speak out.
+Chender had this to say to reporters: These laws will allow the Houston government to restrict information by undermining the information and privacy commissioner.
+‘Nova Scotians have been clear’ The legislature is paused for March Break after having met for two weeks.
+“When Nova Scotians spoke up against threats to the independence of the Auditor General’s office, the Houston Conservatives were forced to back down,” the NDP caucus said in Thursday’s news release.
+
+**Source:** [https://www.halifaxexaminer.ca/dismantling-democracy/ndp-urging-nova-scotians-to-speak-up-about-houston-governments-overreach/](https://www.halifaxexaminer.ca/dismantling-democracy/ndp-urging-nova-scotians-to-speak-up-about-houston-governments-overreach/)
+
+---
+
 ## 'A wee glimpse of you': the short paragraph nobody wants to write
 
 **Authors:** Philip Moscovitch, Jennifer Henderson, Suzanne Rent, Tim Bousquet
@@ -74,21 +74,21 @@ Before that November grant to EverWind, there was US$125 million (now worth C$17
 
 ---
 
-## NDP urging Nova Scotians to speak up about Houston government's 'overreach'
+## Uranium exploration and mining in Nova Scotia – the radioactive issue that Houston's government reactivated
 
-**Authors:** Jennifer Henderson, Tim Bousquet, Suzanne Rent, Madiha Mughees
+**Authors:** Joan Baxter, Suzanne Rent, Tim Bousquet, Madiha Mughees
 
-**Published:** 2025-03-13 19:06:07
+**Published:** 2025-03-13 22:13:03
 
-**Keywords:** urging, government's, overreach, nova, houston, speak, scotians, ndp, chender, public, universities, committee, proposed, premier, bills, propose, legislation, legislature, week, information, leader, citizens, amendments, release, thursday’s, it’s, tim, pass, number, journalists, briefing, called, powers, law, authority
+**Keywords:** radioactive, houston's, reactivated, uranium, mining, nova, scotia, exploration, issue, mans, thomas, nuclear, ban, energy, emerman, report, saskatchewan, province, industry, safety, houston, kirby, inquiry, examiner, public, mines, risks, association, jobs, 1982, health, noted, moratorium, environmental, safe
 
-**Summary:** There are a number of bills that propose giving the government more control over transportation, universities, and around what qualifies as a legitimate freedom of information request.
-NDP Leader Claudia Chender invited journalists to a briefing Thursday where she called on all citizens concerned about “overreach” and the extension of provincial powers to speak out.
-Chender had this to say to reporters: These laws will allow the Houston government to restrict information by undermining the information and privacy commissioner.
-‘Nova Scotians have been clear’ The legislature is paused for March Break after having met for two weeks.
-“When Nova Scotians spoke up against threats to the independence of the Auditor General’s office, the Houston Conservatives were forced to back down,” the NDP caucus said in Thursday’s news release.
+**Summary:** It’s that long ago that citizens in Nova Scotia first became concerned about the radioactive issue of uranium mining and exploration in Nova Scotia, and mounted an informed and impassioned campaign to have it stopped.
+The lawsuit eventually wound up in the Supreme Court of Nova Scotia, and the jury spent five hours deliberating before finding Smyth innocent of libel.
+Writes MANS: Nova Scotia had a boom in uranium exploration from approximately 1976 to 1981.
+Uranium mining today is very different from what it was four decades ago when Nova Scotia banned it.
+To what extent do you support or oppose the mining and exploration of uranium in Nova Scotia?
 
-**Source:** [https://www.halifaxexaminer.ca/dismantling-democracy/ndp-urging-nova-scotians-to-speak-up-about-houston-governments-overreach/](https://www.halifaxexaminer.ca/dismantling-democracy/ndp-urging-nova-scotians-to-speak-up-about-houston-governments-overreach/)
+**Source:** [https://www.halifaxexaminer.ca/dismantling-democracy/uranium-exploration-and-mining-in-nova-scotia-the-radioactive-issue-that-houstons-government-reactivated/](https://www.halifaxexaminer.ca/dismantling-democracy/uranium-exploration-and-mining-in-nova-scotia-the-radioactive-issue-that-houstons-government-reactivated/)
 
 ---
 

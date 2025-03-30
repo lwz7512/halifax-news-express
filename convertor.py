@@ -5,6 +5,13 @@ import shutil
 from datetime import datetime
 
 
+def create_index_md_file(docs_dir, category):
+    """Create a new index.md file under the category folder."""
+    index_path = os.path.join(docs_dir, category, 'index.md')
+    with open(index_path, 'w') as f:
+        f.write(f"# Article List for {category.capitalize()} Category\n\n")
+
+
 def convert_json_to_markdown():
     """Convert JSON files in the data folder to Markdown format."""
     
@@ -12,15 +19,11 @@ def convert_json_to_markdown():
     docs_dir = 'docs'
     output_dir = 'markdown_news'
 
-    # create new index.md file under `economy` folder
-    index_economy_path = os.path.join(docs_dir, 'economy', 'index.md')
-    with open(index_economy_path, 'w') as f:
-        f.write("# Article List for Economy Category\n\n")
-    
-    # create new index.md file under `government` folder
-    index_government_path = os.path.join(docs_dir, 'government', 'index.md')
-    with open(index_government_path, 'w') as f:
-        f.write("# Article List for Government Category\n\n")
+    # create index.md file under each category folder
+    create_index_md_file(docs_dir, 'economy')
+    create_index_md_file(docs_dir, 'government')
+    create_index_md_file(docs_dir, 'local')
+    create_index_md_file(docs_dir, 'atlantic')
 
     # TODO: create new index.md file under other folders under docs folder...
     

@@ -30,7 +30,7 @@ class GovernmentSpider(scrapy.Spider):
         # Extract URLs from the response and yield Scrapy Requests
         latest_news_section = response.css(".wp-block-newspack-blocks-homepage-articles")
         latest_articles = latest_news_section.css("article .entry-title > a::attr(href)")
-        print('====== detected latest articles: ===============')
+        print('====== detected latest articles: Halifax Examiner Government ===============')
         print(len(latest_articles))
         print('====================')
         for href in latest_articles:
