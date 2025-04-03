@@ -63,7 +63,7 @@ class CityNewsAtlanticSpider(scrapy.Spider):
     def parse_article(self, response, title, index):
         # Use Newspaper4k to parse the article
         article = newspaper.Article(response.url, language='en')
-        article.download(title=f"#{index} {title}", ignore_read_more=True)
+        article.download(title=title, ignore_read_more=True)
         # remove unwanted tags
         soup = BeautifulSoup(article.html, 'html.parser')
         # ! remove page-component divs, it will break the parsing!
