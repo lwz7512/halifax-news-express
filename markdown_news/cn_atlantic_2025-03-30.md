@@ -1,6 +1,6 @@
 # Halifax News Articles - atlantic_2025-03-30
 
-*Generated on 2025-03-30 13:07:58*
+*Generated on 2025-04-02 21:42:53*
 
 ## Canadian police partner with AI in arms race against criminals. But at what cost?
 

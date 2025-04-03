@@ -8,6 +8,8 @@ from news_scraper.spiders.c_local_spider import CityNewsLocalSpider
 from news_scraper.spiders.c_atlantic_spider import CityNewsAtlanticSpider
 
 from convertor import convert_json_to_markdown
+import time
+from datetime import datetime
 
 # if article nlp method got error, run this codes once:
 # import nltk
@@ -33,6 +35,7 @@ def main():
     crawl_concurrently()
     print("### all spiders finished!")
     print(">>> converting JSON files to Markdown...")
+    # then convert the json files to markdown
     convert_json_to_markdown()
     print("### conversion completed!")
 
