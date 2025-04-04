@@ -1,9 +1,10 @@
 site_name: Halifax News Express
 nav:
   - Home: index.md
-  - Local: local/
-  - Atlantic: atlantic/
-  - Econmy: economy/
-  - Government: government/
-  - About: about.md
+  - Global News Halifax: halifax/
+  - Examiner Economy: economy/
+  - Examiner Government: government/
+  - City News Atlantic: atlantic/
+  - City News Local: local/
+  - About Channel: about.md
 theme: readthedocs

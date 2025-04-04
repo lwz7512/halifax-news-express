@@ -25,3 +25,7 @@ python main.py
 ```
 mkdocs serve
 ```
+
+## Release History
+
+- v1.0 three main news source & doc site available @2025/04/3

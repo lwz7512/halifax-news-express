@@ -18,12 +18,18 @@ def convert_json_to_markdown():
     data_dir = 'data'
     docs_dir = 'docs'
     output_dir = 'markdown_news'
+    source_map = {
+        'he': 'Halifax Examiner',
+        'cn': 'City News',
+        'gn': 'Global News',
+    }
 
     # create index.md file under each category folder
     create_index_md_file(docs_dir, 'economy')
     create_index_md_file(docs_dir, 'government')
     create_index_md_file(docs_dir, 'local')
     create_index_md_file(docs_dir, 'atlantic')
+    create_index_md_file(docs_dir, 'halifax')
 
     # TODO: create new index.md file under other folders under docs folder...
     
@@ -48,6 +54,8 @@ def convert_json_to_markdown():
         # Create markdown filename (replace .json with .md)
         md_filename = filename.replace('.json', '.md')
         md_path = os.path.join(output_dir, md_filename)
+        # Get the source from the filename
+        source = md_filename.split('_')[0]
         # Get the category from the filename
         category = md_filename.split('_')[1]
         # Get the date from the filename, remove the .md extension
@@ -55,7 +63,7 @@ def convert_json_to_markdown():
         
         # Convert json file to markdown file
         with open(md_path, 'w') as f:
-            f.write(f"# Halifax News Articles - {filename[3:-5]}\n\n")
+            f.write(f"# {source_map[source]} - {category.capitalize()} - {date}\n\n")
             f.write(f"*Generated on {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}*\n\n")
             
             for article in articles:

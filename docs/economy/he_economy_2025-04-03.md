@@ -1,12 +1,30 @@
-# Halifax Examiner - Government - 2025-04-02
+# Halifax Examiner - Economy - 2025-04-03
 
 *Generated on 2025-04-03 21:08:19*
 
+## The institution is not more important than its mission: what child sex abuse and American universities teach us about dealing with fascism
+
+**Authors:** Tim Bousquet, Olivia Piercey, Yvette d'Entremont, Suzanne Rent, Jennifer Henderson
+
+**Published:** 2025-04-01T14:09:21+00:00
+
+**Keywords:** important, mission, child, sex, abuse, american, universities, teach, dealing, fascism, institution, conservative, ndp, ppc, green, liberal, foulds, halifax, university, wage, cbc, click, nova, scotia, allowed, it’s, don’t, examiner, minimum, issues, institutions, abuser, trumpists, send, item
+
+**Summary:** Institutions tend to take on a life of their own, such that the institution becomes more important than its purpose or the people who make it up.
+The most sickening example is when schools, churches, and sports teams are confronted with the reality of a sexual abuser.
+The institution was created to shepherd young people into fulsome adulthood, but because the institution was all about self-preservation, survivors spend much of their adulthood coming to terms with their abuse.
+I suppose I started down this train of thought because Joella Foulds’ experience with the CBC made me step back and contemplate the Halifax Examiner.
+As Yvette d’Entremont reported in August, the living wage in Halifax is now $28.30.
+
+**Source:** [https://www.halifaxexaminer.ca/morning-file/the-institution-is-not-more-important-than-its-mission-what-child-sex-abuse-and-american-universities-teach-us-about-dealing-with-fascism/](https://www.halifaxexaminer.ca/morning-file/the-institution-is-not-more-important-than-its-mission-what-child-sex-abuse-and-american-universities-teach-us-about-dealing-with-fascism/)
+
+---
+
 ## Avian flu in the U.S. causing shortage of chicks for backyard flocks in the Maritimes
 
-**Authors:** Joan Baxter, Suzanne Rent, Jennifer Henderson, Madiha Mughees, Tim Bousquet
+**Authors:** Joan Baxter, Tim Bousquet, Olivia Piercey, Yvette d'Entremont, Suzanne Rent, Jennifer Henderson
 
-**Published:** 2025-04-01 11:59:52
+**Published:** 2025-04-01T11:59:52+00:00
 
 **Keywords:** avian, flu, s, causing, shortage, chicks, backyard, flocks, maritimes, uncover, dead, wrong, podcast, priced, 1995, brenda, brutally, murdered, dartmouth, apartment, building, 1999, glen, assoun, guilty, murder, served, 17, prison, maintaining, innocence, 2019, fully, exonerated, halifax
 
@@ -22,9 +40,9 @@ Click here to listen to the podcast.
 
 ## Minimum wage, minimum purchases: What can you buy with $15.70?
 
-**Authors:** Suzanne Rent, Jennifer Henderson, Madiha Mughees, Tim Bousquet, Joan Baxter
+**Authors:** Suzanne Rent, Tim Bousquet, Olivia Piercey, Yvette d'Entremont, Jennifer Henderson, Madiha Mughees
 
-**Published:** 2025-04-02 12:56:09
+**Published:** 2025-04-02T12:56:09+00:00
 
 **Keywords:** minimum, purchases, 15, 70, wage, buy, ctv, gilmore, online, it’s, jones, week, scotia, halifax, park, click, link, school, nova, send, item, copy, eggs, that’s, head, harbour, poilievre, 16, i’ve, products, don’t, there’s, month, gas, carbon
 
@@ -38,29 +56,11 @@ So you have to work just under six hours at $15.70 to pay for your monthly bus p
 
 ---
 
-## The institution is not more important than its mission: what child sex abuse and American universities teach us about dealing with fascism
-
-**Authors:** Tim Bousquet, Suzanne Rent, Jennifer Henderson, Madiha Mughees, Joan Baxter
-
-**Published:** 2025-04-01 14:09:21
-
-**Keywords:** important, mission, child, sex, abuse, american, universities, teach, dealing, fascism, institution, conservative, ndp, ppc, green, liberal, foulds, halifax, university, wage, cbc, click, nova, scotia, allowed, it’s, don’t, examiner, minimum, issues, institutions, abuser, trumpists, send, item
-
-**Summary:** Institutions tend to take on a life of their own, such that the institution becomes more important than its purpose or the people who make it up.
-The most sickening example is when schools, churches, and sports teams are confronted with the reality of a sexual abuser.
-The institution was created to shepherd young people into fulsome adulthood, but because the institution was all about self-preservation, survivors spend much of their adulthood coming to terms with their abuse.
-I suppose I started down this train of thought because Joella Foulds’ experience with the CBC made me step back and contemplate the Halifax Examiner.
-As Yvette d’Entremont reported in August, the living wage in Halifax is now $28.30.
-
-**Source:** [https://www.halifaxexaminer.ca/morning-file/the-institution-is-not-more-important-than-its-mission-what-child-sex-abuse-and-american-universities-teach-us-about-dealing-with-fascism/](https://www.halifaxexaminer.ca/morning-file/the-institution-is-not-more-important-than-its-mission-what-child-sex-abuse-and-american-universities-teach-us-about-dealing-with-fascism/)
-
----
-
 ## Dr. Lynn Jones on strong foundations, systems of oppression, and shared humanity
 
-**Authors:** Madiha Mughees, Suzanne Rent, Jennifer Henderson, Tim Bousquet, Joan Baxter
+**Authors:** Madiha Mughees, Tim Bousquet, Olivia Piercey, Yvette d'Entremont, Suzanne Rent, Jennifer Henderson
 
-**Published:** 2025-04-01 19:45:12
+**Published:** 2025-04-01T19:45:12+00:00
 
 **Keywords:** dr, lynn, jones, strong, foundations, systems, oppression, shared, humanity, uncover, dead, wrong, podcast, priced, 1995, brenda, brutally, murdered, dartmouth, apartment, building, 1999, glen, assoun, guilty, murder, served, 17, prison, maintaining, innocence, 2019, fully, exonerated, halifax
 
@@ -76,9 +76,9 @@ Click here to listen to the podcast.
 
 ## Pierre Poilievre has no climate plan
 
-**Authors:** Jennifer Henderson, Suzanne Rent, Madiha Mughees, Tim Bousquet, Joan Baxter
+**Authors:** Jennifer Henderson, Tim Bousquet, Olivia Piercey, Yvette d'Entremont, Suzanne Rent, Madiha Mughees
 
-**Published:** 2025-04-02 11:31:45
+**Published:** 2025-04-02T11:31:45+00:00
 
 **Keywords:** pierre, poilievre, climate, plan, uncover, dead, wrong, podcast, priced, 1995, brenda, brutally, murdered, dartmouth, apartment, building, 1999, glen, assoun, guilty, murder, served, 17, prison, maintaining, innocence, 2019, fully, exonerated, halifax, examiner’s, tim, bousquet, tells, assoun’s
 

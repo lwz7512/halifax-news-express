@@ -1,6 +1,6 @@
-# Halifax News Articles - economy_2025-03-30
+# Halifax Examiner - Economy - 2025-03-30
 
-*Generated on 2025-04-02 21:42:53*
+*Generated on 2025-04-03 21:08:19*
 
 ## Mayor Andy Fillmore calls flat tax rate for next year a 'gift to our community'
 

@@ -1,10 +1,10 @@
-# Halifax Examiner - Government - 2025-04-02
+# Halifax Examiner - Government - 2025-04-03
 
 *Generated on 2025-04-03 21:08:19*
 
 ## Avian flu in the U.S. causing shortage of chicks for backyard flocks in the Maritimes
 
-**Authors:** Joan Baxter, Suzanne Rent, Jennifer Henderson, Madiha Mughees, Tim Bousquet
+**Authors:** Joan Baxter, Tim Bousquet, Olivia Piercey, Yvette d'Entremont, Suzanne Rent, Jennifer Henderson
 
 **Published:** 2025-04-01 11:59:52
 
@@ -22,7 +22,7 @@ Click here to listen to the podcast.
 
 ## Minimum wage, minimum purchases: What can you buy with $15.70?
 
-**Authors:** Suzanne Rent, Jennifer Henderson, Madiha Mughees, Tim Bousquet, Joan Baxter
+**Authors:** Suzanne Rent, Tim Bousquet, Olivia Piercey, Yvette d'Entremont, Jennifer Henderson, Madiha Mughees
 
 **Published:** 2025-04-02 12:56:09
 
@@ -40,7 +40,7 @@ So you have to work just under six hours at $15.70 to pay for your monthly bus p
 
 ## The institution is not more important than its mission: what child sex abuse and American universities teach us about dealing with fascism
 
-**Authors:** Tim Bousquet, Suzanne Rent, Jennifer Henderson, Madiha Mughees, Joan Baxter
+**Authors:** Tim Bousquet, Olivia Piercey, Yvette d'Entremont, Suzanne Rent, Jennifer Henderson
 
 **Published:** 2025-04-01 14:09:21
 
@@ -58,7 +58,7 @@ As Yvette d’Entremont reported in August, the living wage in Halifax is now $2
 
 ## Dr. Lynn Jones on strong foundations, systems of oppression, and shared humanity
 
-**Authors:** Madiha Mughees, Suzanne Rent, Jennifer Henderson, Tim Bousquet, Joan Baxter
+**Authors:** Madiha Mughees, Tim Bousquet, Olivia Piercey, Yvette d'Entremont, Suzanne Rent, Jennifer Henderson
 
 **Published:** 2025-04-01 19:45:12
 
@@ -76,7 +76,7 @@ Click here to listen to the podcast.
 
 ## Pierre Poilievre has no climate plan
 
-**Authors:** Jennifer Henderson, Suzanne Rent, Madiha Mughees, Tim Bousquet, Joan Baxter
+**Authors:** Jennifer Henderson, Tim Bousquet, Olivia Piercey, Yvette d'Entremont, Suzanne Rent, Madiha Mughees
 
 **Published:** 2025-04-02 11:31:45
 

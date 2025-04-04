@@ -1,6 +1,6 @@
-# Halifax News Articles - economy_2025-04-02
+# Halifax Examiner - Economy - 2025-04-02
 
-*Generated on 2025-04-02 21:42:53*
+*Generated on 2025-04-03 21:08:19*
 
 ## Avian flu in the U.S. causing shortage of chicks for backyard flocks in the Maritimes
 
