@@ -1,6 +1,6 @@
 # Halifax Examiner - Economy - 2025-04-01
 
-*Generated on 2025-04-03 21:08:19*
+*Generated on 2025-05-06 18:59:15*
 
 ## Dartmouth Seniors Service Centre cancels two key services due to lack of funding
 

@@ -1,5 +1,7 @@
 # Article List for Local Category
 
+[Local 2025-05-06](cn_local_2025-05-06.md)
+
 [Local 2025-04-03](cn_local_2025-04-03.md)
 
 [Local 2025-04-02](cn_local_2025-04-02.md)

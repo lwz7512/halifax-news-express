@@ -1,6 +1,6 @@
 # City News - Atlantic - 2025-04-02
 
-*Generated on 2025-04-03 21:08:19*
+*Generated on 2025-05-06 18:59:15*
 
 ## #5 Halifax wildfires: Residents of city's western suburbs want more escape routes
 

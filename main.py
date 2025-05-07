@@ -34,7 +34,7 @@ def crawl_concurrently():
 
 def main():
     print(">>> running spiders concurrently...")
-    # crawl_concurrently()
+    crawl_concurrently()
     print("### all spiders finished!")
     print(">>> converting JSON files to Markdown...")
     # then convert the json files to markdown
