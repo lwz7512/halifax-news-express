@@ -5,10 +5,12 @@ import shutil
 from datetime import datetime
 
 
-def create_index_md_file(docs_dir, category):
+def create_index_md_file(docs_dir, category, title, description):
     """Create a new index.md file under the category folder."""
     index_path = os.path.join(docs_dir, category, 'index.md')
     with open(index_path, 'w') as f:
+        f.write(f"# {title}\n\n")
+        f.write(f" {description}\n\n")
         f.write(f"# Article List for {category.capitalize()} Category\n\n")
 
 
@@ -25,11 +27,36 @@ def convert_json_to_markdown():
     }
 
     # create index.md file under each category folder
-    create_index_md_file(docs_dir, 'economy')
-    create_index_md_file(docs_dir, 'government')
-    create_index_md_file(docs_dir, 'local')
-    create_index_md_file(docs_dir, 'atlantic')
-    create_index_md_file(docs_dir, 'halifax')
+    create_index_md_file(
+        docs_dir, 
+        'economy', 
+        'Examiner Economy', 
+        'Welcome to the Examiner Economy section. This section contains economic news, analysis, and updates from Halifax and Nova Scotia.'
+    )
+    create_index_md_file(
+        docs_dir, 
+        'government', 
+        'Examiner Government', 
+        'Welcome to the Examiner Government section. This section contains news and updates about government activities, policies, and decisions affecting Halifax and Nova Scotia.'
+    )
+    create_index_md_file(
+        docs_dir, 
+        'local', 
+        'City News Local', 
+        'Welcome to the City News Local section. This section contains news and updates about local events, activities, and happenings in Halifax and Nova Scotia.'
+    )
+    create_index_md_file(
+        docs_dir, 
+        'atlantic', 
+        'City News Atlantic', 
+        'Welcome to the City News Atlantic section. This section contains news and updates from across the Atlantic provinces.'
+    )
+    create_index_md_file(
+        docs_dir, 
+        'halifax', 
+        'Global News Halifax', 
+        'Welcome to the Global News Halifax section. This section contains news and updates about Halifax and Nova Scotia.'
+    )
 
     # TODO: create new index.md file under other folders under docs folder...
     

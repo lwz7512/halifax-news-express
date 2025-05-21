@@ -1,4 +1,16 @@
+# Examiner Government
+
+Welcome to the Examiner Government section. This section contains news and updates about government activities, policies, and decisions affecting Halifax and Nova Scotia.
+
 # Article List for Government Category
+
+[Government 2025-05-20](he_government_2025-05-20.md)
+
+[Government 2025-05-19](he_government_2025-05-19.md)
+
+[Government 2025-05-16](he_government_2025-05-16.md)
+
+[Government 2025-05-11](he_government_2025-05-11.md)
 
 [Government 2025-05-06](he_government_2025-05-06.md)
 

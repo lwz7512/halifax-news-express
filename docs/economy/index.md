@@ -1,4 +1,16 @@
+# Examiner Economy
+
+Welcome to the Examiner Economy section. This section contains economic news, analysis, and updates from Halifax and Nova Scotia.
+
 # Article List for Economy Category
+
+[Economy 2025-05-20](he_economy_2025-05-20.md)
+
+[Economy 2025-05-19](he_economy_2025-05-19.md)
+
+[Economy 2025-05-16](he_economy_2025-05-16.md)
+
+[Economy 2025-05-11](he_economy_2025-05-11.md)
 
 [Economy 2025-05-06](he_economy_2025-05-06.md)
 

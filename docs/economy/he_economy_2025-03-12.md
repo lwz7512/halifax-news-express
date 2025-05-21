@@ -1,6 +1,6 @@
 # Halifax Examiner - Economy - 2025-03-12
 
-*Generated on 2025-05-06 18:59:15*
+*Generated on 2025-05-20 18:43:59*
 
 ## Halifax bridge staff to be reassigned to new jobs as toll removal process begins
 

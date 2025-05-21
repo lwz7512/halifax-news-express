@@ -1,6 +1,6 @@
 # Halifax Examiner - Economy - 2025-05-06
 
-*Generated on 2025-05-06 18:59:15*
+*Generated on 2025-05-20 18:43:59*
 
 ## Halifax police board to adopt policy for use, training, storage of armoured vehicle
 

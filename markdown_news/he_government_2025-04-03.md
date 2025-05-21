@@ -1,6 +1,6 @@
 # Halifax Examiner - Government - 2025-04-03
 
-*Generated on 2025-05-06 18:59:15*
+*Generated on 2025-05-20 18:43:59*
 
 ## Avian flu in the U.S. causing shortage of chicks for backyard flocks in the Maritimes
 

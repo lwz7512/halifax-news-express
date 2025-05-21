@@ -1,6 +1,6 @@
 # City News - Atlantic - 2025-05-06
 
-*Generated on 2025-05-06 18:59:15*
+*Generated on 2025-05-20 18:43:59*
 
 ## #4 They locked a Newfoundland church so it wouldn't be sold. Its fate is now in court.
 
