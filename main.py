@@ -1,6 +1,6 @@
 
 from scrapy.crawler import CrawlerProcess
-from twisted.internet import defer
+# from twisted.internet import defer
 
 from news_scraper.spiders.a_gove_spider import GovernmentSpider
 from news_scraper.spiders.a_econ_spider import EconomySpider

@@ -1,6 +1,6 @@
 # Global News - Halifax - 2025-05-06
 
-*Generated on 2025-05-20 18:43:59*
+*Generated on 2025-06-04 19:14:59*
 
 ## #1 Search for missing Nova Scotia kids continues as stepfather seeks expanded effort
 

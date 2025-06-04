@@ -1,6 +1,6 @@
 # Global News - Halifax - 2025-05-20
 
-*Generated on 2025-05-20 18:43:59*
+*Generated on 2025-06-04 19:14:59*
 
 ## #1 Nova Scotia kids missing for 18 days ‘weighing heavy’ on community: premier
 

@@ -1,6 +1,6 @@
 # City News - Atlantic - 2025-05-16
 
-*Generated on 2025-05-20 18:43:59*
+*Generated on 2025-06-04 19:14:59*
 
 ## #2 Lone survivor of Falmouth crash in stable condition; fundraisers set up
 

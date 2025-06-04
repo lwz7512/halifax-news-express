@@ -1,6 +1,6 @@
 # Halifax Examiner - Economy - 2025-05-19
 
-*Generated on 2025-05-20 18:43:59*
+*Generated on 2025-06-04 19:14:59*
 
 ## 'They are completely on their own': Advocates say vulnerable workers in Nova Scotia need better protections
 

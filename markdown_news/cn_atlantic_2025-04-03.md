@@ -1,6 +1,6 @@
 # City News - Atlantic - 2025-04-03
 
-*Generated on 2025-05-20 18:43:59*
+*Generated on 2025-06-04 19:14:59*
 
 ## #6 Religious gathering cancelled in N.S. because of fears of U.S. border policies
 

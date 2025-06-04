@@ -1,0 +1,238 @@
+# Global News - Halifax - 2025-05-28
+
+*Generated on 2025-06-04 19:14:59*
+
+## #1 N.S. kids spotted with family members day before reported missing: RCMP
+
+**Authors:** Rebecca Lau
+
+**Published:** 2025-05-28T10:11:25-04:00
+
+**Keywords:** n, s, kids, spotted, rcmp, family, members, day, reported, missing, children’s, disappearance, video, lilly, jack, they’ve, investigators, continues, advertisement, we’re, release, nova, footage, public, sullivan, lansdowne, station, based, details, surrounding, 12, p, m, cpl, matharu
+
+**Summary:** Lilly and Jack Sullivan — aged six and four — were reported missing from their home in Lansdowne Station, N.S.
+In a Wednesday update, RCMP said they’ve confirmed the two were “observed in public with family members on the afternoon of May 1” based on details they’ve gathered.
+‘We understand people’s desire for answers’ The children’s disappearance launched a multi-day search that involved upwards of 160 people, including volunteers and agencies from around the province.
+Story continues below advertisement “Any future searches will be determined based on the course of the investigation,” RCMP said Wednesday.
+When asked if he had anything to do with the children’s disappearance, he was adamant in his answer.
+
+**Source:** [https://globalnews.ca/news/11200836/jack-lilly-sullivan-missing-kids-nova-scotia-video-footage/](https://globalnews.ca/news/11200836/jack-lilly-sullivan-missing-kids-nova-scotia-video-footage/)
+
+---
+
+## #6 N.S. unable to lay charges in 2023 wildfire despite ‘exhausting all possible avenues’
+
+**Authors:** Rebecca Lau
+
+**Published:** 2025-05-28T12:30:47-04:00
+
+**Keywords:** n, s, charges, lay, wildfire, 2023, unable, exhausting, avenues, halifax, department, forests, act, evidence, noted, criminal, canada, nova, scotia, burned, 969, hectares, marks, upper, tantallon, hammonds, plains, area, broke, largest, recorded, regional, municipality, displaced, 16
+
+**Summary:** The Nova Scotia government says it is “unable” to lay charges in the 2023 wildfire that burned 969 hectares despite “exhausting all possible avenues.” Wednesday marks exactly two years since the wildfire in the Upper Tantallon and Hammonds Plains area broke out.
+The fire, which was one of the largest recorded in Halifax Regional Municipality, displaced more than 16,000 residents and destroyed about 150 homes.
+The Department of Natural Resources has two years from the date of an offence to lay charges under the Forests Act.
+There is a high bar for what can be used as evidence in court,” the province noted in a news release Wednesday.
+The department cannot lay criminal charges under the Forests Act.
+
+**Source:** [https://globalnews.ca/news/11201035/wildfire-no-charges-upper-tantallon-hammonds-plains/](https://globalnews.ca/news/11201035/wildfire-no-charges-upper-tantallon-hammonds-plains/)
+
+---
+
+## #5 Halifax says it is closing one of the five remaining designated homeless encampments
+
+**Authors:** The Canadian Press, globalnewsdigital
+
+**Published:** 2025-05-28T14:00:45-04:00
+
+**Keywords:** halifax, designated, remaining, homeless, closing, encampments, encampment, geary, street, sites, tents, site, municipality, statement, dartmouth, chauvin, housing, regional, morning, green, space, longer, sheltering, 22, relocate, max, halifax’s, director, homelessness, consistently, lowest, staff, observed, 47, trailers
+
+**Summary:** Halifax Regional Municipality is closing one of its five remaining homeless encampment sites.
+Max Chauvin, Halifax’s director of housing and homelessness, says the Geary Street site has consistently had the lowest use among the designated encampments.
+As of Friday, Halifax staff observed four tents at the Geary Street site, and 47 tents and four trailers across the municipality’s four other designated encampment locations, he says.
+Here are 5 key highlights Chauvin says in the coming days, the residents sleeping at the Geary Street site will be offered resources and support to move to a shelter, temporary housing or one of the remaining designated encampment sites.
+Four designated homeless encampment sites will remain open; three in Halifax and one in Dartmouth.
+
+**Source:** [https://globalnews.ca/news/11201269/halifax-closing-designated-homeless-encampment-geary/](https://globalnews.ca/news/11201269/halifax-closing-designated-homeless-encampment-geary/)
+
+---
+
+## #14 ‘Sophisticated’ Nova Scotia Power cybersecurity breach cause for concern, says expert
+
+**Authors:** Angela Capobianco
+
+**Published:** 2025-05-26T16:48:09-04:00
+
+**Keywords:** sophisticated, concern, expert, halifax, nova, scotia, power, cybersecurity, breach, attack, data, compromised, rand, letter, that’s, address, account, who’s, she’s, utility, concerns, information, it’s, customers, impacted, servers, announced, money, credit, popa, chastin, received, wasn’t, ex-partner, raised
+
+**Summary:** Chastin Rand is one of many people who have received a letter from Nova Scotia Power about the data breach.
+“That’s the weird part for me; I’m not sure why it would come here and where it came to my address, like is it my address that’s compromised?” Rand says.
+Nova Scotia Power announced on April 25 that one of its servers and parts of its network were compromised in a cybersecurity attack.
+Nova Scotia Power is offering a subscription to a credit monitoring program for customers who have been impacted.
+Nova Scotia Power declined Global News’ request for an interview.
+
+**Source:** [https://globalnews.ca/news/11197600/nova-scotia-power-ransomware/](https://globalnews.ca/news/11197600/nova-scotia-power-ransomware/)
+
+---
+
+## #7 Nova Scotia landowners can say no to uranium exploration on their properties: deputy
+
+**Authors:** The Canadian Press, globalnewsdigital
+
+**Published:** 2025-05-28T11:36:58-04:00
+
+**Keywords:** properties, deputy, halifax, exploration, landowners, uranium, nova, scotia, province, gatien, property, rights, land, county, minister, told, reporters, letters, owners, added, resources, site, don’t, information, meeting, case, lithium, private, recently, provincial, karen, selected, mining, company, companies
+
+**Summary:** Private landowners in Nova Scotia whose properties were recently identified for potential uranium exploration can say no to work proceeding, says a provincial deputy minister.
+“They can absolutely say no,” said Gatien, who added that property owners retain surface rights to their land and are not compelled to allow exploration.
+Companies selected by the province would have to seek permission from landowners to explore, said Gatien.
+Meeting organizer Colby Sawler said the general consensus at the meeting was that residents don’t want uranium exploration in the area.
+When asked about Gatien’s assurances that landowners would not be forced to accept exploration, Sawler also brought up the recent lithium exploration example.
+
+**Source:** [https://globalnews.ca/news/11200977/nova-scotia-landowners-uranium-exploration/](https://globalnews.ca/news/11200977/nova-scotia-landowners-uranium-exploration/)
+
+---
+
+## #10 Hate crimes on the rise in Halifax according to data 
+
+**Authors:** Global News, globalnewsdigital
+
+**Published:** 2025-05-27T15:20:16-04:00
+
+**Keywords:** halifax, data, hate, crimes, rise, incidents, hrp, it’s, report, issue, communities, halifax’s, things, maclean, throne, speech, mancini, vandalism, assaults, threats, identified, growing, problem, needed, addressing, 2022, regional, rcmp, working, directly, impacted, discussed, board, commissioners, 21
+
+**Summary:** Vandalism, assaults and threats are on the rise in Halifax, according to police.
+Hate crimes were an issue first identified as a growing problem that needed addressing in 2022.
+Halifax Regional Police (HRP) and RCMP have been working together since then with communities that are directly impacted.
+Only seven hate crimes were reported in 2014 in the municipality, with the number in 2023 jumping to 121.
+People of colour, actual or perceived newcomers and members of the 2SLGBTQIA+ community are the groups most commonly targeted, according to a staff report on the police response to hate crimes and hate incidents in Halifax.
+
+**Source:** [https://globalnews.ca/news/11199459/hate-crimes-on-the-rise-in-halifax-according-to-data/](https://globalnews.ca/news/11199459/hate-crimes-on-the-rise-in-halifax-according-to-data/)
+
+---
+
+## #9 N.S. monarchists say King Charles’ throne speech sends message to ‘neighbour to the south’
+
+**Authors:** Ella Macdonald
+
+**Published:** 2025-05-28T05:00:22-04:00
+
+**Keywords:** n, sends, message, neighbour, south, halifax, speech, monarchists, throne, s, king, charles, canada’s, canada, royal, crown, history, world, nova, scotia, 51st, state, watch, calling, event, century, iii, delivered, ottawa, kicking, parliamentary, session, 1977, marking, 27
+
+**Summary:** Some monarchists are calling it the royal event of the century as King Charles III delivered the throne speech in Ottawa, kicking off Canada’s new parliamentary session.
+Until Tuesday, the last time a speech like this one was given by the Crown was in 1977, marking May 27, 2025, as a new date for the history books.
+In Halifax, a group of royal watchers gathered to hold a viewing party, including former Nova Scotia lieutenant-governor Dr. Mayann Francis.
+“When I was a child, I saw (Queen Elizabeth II) when she was visiting Cape Breton where I’m from.
+Trending Now Canada commits to joining European defence plan in throne speech Trump says Canada would pay $61B for Golden Dome, but zero as ’51st state’ “I respect the family.
+
+**Source:** [https://globalnews.ca/news/11199114/king-charles-donald-trump-nova-scotia-monarchists/](https://globalnews.ca/news/11199114/king-charles-donald-trump-nova-scotia-monarchists/)
+
+---
+
+## #4 Trump says Canada would pay $61B for Golden Dome, but zero as ’51st state’
+
+**Authors:** Sean Boynton
+
+**Published:** 2025-05-27T18:22:00-04:00
+
+**Keywords:** 61b, state, national, trump, canada, golden, dome, pay, 51st, carney, s, defence, speech, billion, plan, canada’s, prime, 61, told, king, throne, system, offer, continues, advertisement, minister, sovereign, president, missile, social, charles, iii, sovereignty, plans, cost
+
+**Summary:** U.S. President Donald Trump said Tuesday that Canada will have to pay US$61 billion to be part of his “Golden Dome” space-based missile defence plan — but would pay nothing if it becomes part of the U.S., a message he claimed to have “told Canada” himself.
+“They are considering the offer!” The Prime Minister’s Office did not say it had received such an “offer” from Trump.
+Global News asked the White House how Trump came to the US$61 billion amount, but did not immediately hear back.
+Carney did not say how much his government would be willing to spend as part of a “Golden Dome” partnership.
+“Never say never,” Trump said, to which Carney mouthed the words “never” to reporters in the room.
+
+**Source:** [https://globalnews.ca/news/11199995/trump-canada-51st-state-golden-dome/](https://globalnews.ca/news/11199995/trump-canada-51st-state-golden-dome/)
+
+---
+
+## #12 Glooscap First Nation in Nova Scotia launches new security company
+
+**Authors:** The Canadian Press, globalnewsdigital
+
+**Published:** 2025-05-27T12:54:07-04:00
+
+**Keywords:** launches, halifax, security, glooscap, nation, nova, scotia, company, peters, defence, indigenous, ventures, michael, community, established, chief, nation’s, safety, strategy, contractor, arm, offer, businesses, hiring, kluskap, mi’kmaq, goal, members, support, infrastructure, training, programs, profits, canada, shipyard
+
+**Summary:** A First Nation in Nova Scotia has established a new commercial security company, a move its chief says is another example of the First Nation’s commitment to securing financial independence.
+The recent expansion into the security sector “highlights the innovation Indigenous people bring to vital industries, such as safety and security,” Glooscap First Nation Chief Sidney Peters said in a statement.
+He said that last year, Glooscap Ventures was able to inject nearly $1.4 million in profit back into the community.
+It was after this acquisition that the Mi’kmaq band established a subsidiary called Glooscap Defence, which was created with the goal of becoming the largest Indigenous defence contractor in Canada.
+The new Kluskap Security company will operate under the Glooscap Defence portfolio, Peters said.
+
+**Source:** [https://globalnews.ca/news/11199117/glooscap-first-nation-in-nova-scotia-launches-new-security-company/](https://globalnews.ca/news/11199117/glooscap-first-nation-in-nova-scotia-launches-new-security-company/)
+
+---
+
+## #11 Nova Scotia chiefs say province needs to improve consultation on natural resources
+
+**Authors:** The Canadian Press, globalnewsdigital
+
+**Published:** 2025-05-27T15:17:13-04:00
+
+**Keywords:** improve, halifax, chiefs, consultation, province, natural, nova, scotia, resources, mining, process, young, committee, uranium, mi’kmaq, permitting, province’s, told, legislative, exploration, called, list, gatien, project, concerns, decisions, important, making, houston, legislation, hydraulic, fracturing, boost, issuing, consulting
+
+**Summary:** The Nova Scotia Assembly of Mi’kmaw Chiefs says the provincial government needs to do a better job of consultation as it pushes to develop the province’s natural resources.
+Chief Tamara Young, of Pictou Landing First Nation, told the legislature’s natural resources committee Tuesday that the chiefs have “serious concerns” over how recent decisions have been made without advance notice.
+“We should not hear about important developments that Nova Scotia is making from the evening news,” said Young.
+The chiefs said they were considering legal action and they accused the province of making decisions on unceded and traditional Mi’kmaq territory without properly consulting them.
+Kirby called for permitting to come under a single department, saying the process is currently handled across several.
+
+**Source:** [https://globalnews.ca/news/11199535/nova-scotia-assembly-of-mikmaw-chiefs-natural-resources/](https://globalnews.ca/news/11199535/nova-scotia-assembly-of-mikmaw-chiefs-natural-resources/)
+
+---
+
+## #13 N.S. man charged with kidnapping, giving noxious substance in sexual assault case
+
+**Authors:** Global News, globalnewsdigital
+
+**Published:** 2025-05-27T11:51:06-04:00
+
+**Keywords:** n, s, sexual, assault, case, halifax, charged, noxious, substance, man, giving, kidnapping, williams, offences, rcmp, sexually, woman, involving, firearm, shelburne, investigation, officers, allegedly, assaulting, nova, scotia’s, county, robert, sean, 51, multiple, including, uttering, threats, voyeurism
+
+**Summary:** A man has been charged for allegedly sexually assaulting a woman involving a firearm and giving her a noxious substance in Nova Scotia’s Shelburne County.
+Police say they have charged Robert Sean Williams, 51, with multiple offences, including uttering threats, kidnapping and voyeurism.
+Williams was also charged with overcoming resistance to commission of offence, 10 firearms offences and possession of cocaine and psilocybin for the purpose of trafficking.
+RCMP said they received a report of a sexual assault involving a firearm on May 9 and began an investigation.
+In a Tuesday news release, RCMP said officers found that a woman was given a noxious substance, held against her will and sexually assaulted.
+
+**Source:** [https://globalnews.ca/news/11198760/n-s-man-charged-with-kidnapping-giving-noxious-substance-in-sexual-assault-case/](https://globalnews.ca/news/11198760/n-s-man-charged-with-kidnapping-giving-noxious-substance-in-sexual-assault-case/)
+
+---
+
+## #2 Canada Post says it has made ‘final offer’ to union
+
+**Authors:** Sean Previl, Uday Rana
+
+**Published:** 2025-05-28T08:41:56-04:00
+
+**Keywords:** national, canada, post, union, offer, final, overtime, employees, workers, ban, mail, carriers, hours, cupw, offers, delivery, receive, benefits, end, work, week, rural, suburban, important, company’s, model, statement, inflation, cent, 13, 59, continues, advertisement, company, letter
+
+**Summary:** Canada Post says it has made a “final offer” to the union representing its workers, in a bid to end the ban on overtime work.
+The final offers also act on the recommendations of the Industrial Inquiry Commission (IIC) with much-needed changes to the company’s delivery model,” the statement from Canada Post said.
+According to the new offer, employees will receive a signing bonus of $1,000 or $500, depending on their role.
+Canada Post is remaining firm on its original wage offer.
+Story continues below advertisement As of Tuesday, the union said the national overtime ban it started last Friday will remain in effect.
+
+**Source:** [https://globalnews.ca/news/11200695/canada-post-union-bargaining-table-talks/](https://globalnews.ca/news/11200695/canada-post-union-bargaining-table-talks/)
+
+---
+
+## #1 Tim Houston is travelling the world promoting Nova Scotia. Is it money well spent?
+
+**Authors:** Skye Bryden-Blom
+
+**Published:** 2025-05-27T05:00:54-04:00
+
+**Keywords:** world, promoting, money, spent, houston, nova, scotia, travelling, tim, trade, premier, it’s, trips, houston’s, expenses, travel, france, talks, canada, international, relations, premiers, turnbull, key, province’s, ministerial, liberal, province, sitting, statement, premier’s, department, ongoing, efforts, promote
+
+**Summary:** Nova Scotia Premier Tim Houston is in France as part of ongoing efforts to promote trade talks amid tariff tensions between Canada and the U.S. Houston is in the country to discuss market and energy opportunities with France-based tire manufacturer, Michelin, which is one of Nova Scotia’s largest employers.
+It’s the latest in a series of international trips for Houston to bolster trade relations since Trump imposed sweeping tariffs on Canadian goods.
+She also notes Houston has been travelling interprovincially, with Ontario Premier Doug Ford becoming a significant ally.
+“There seems to also be a desire on Premier Houston’s part to expand the reach of his own brand,” she said.
+During the spring sitting of the legislature, the NDP also raised concerns about Houston’s travel, saying he should have made sitting in the House a priority.
+
+**Source:** [https://globalnews.ca/news/11197575/nova-scotia-premier-tim-houston-international-travel/](https://globalnews.ca/news/11197575/nova-scotia-premier-tim-houston-international-travel/)
+
+---
+

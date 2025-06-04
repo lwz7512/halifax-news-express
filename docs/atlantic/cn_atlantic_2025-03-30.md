@@ -1,6 +1,6 @@
 # City News - Atlantic - 2025-03-30
 
-*Generated on 2025-05-20 18:43:59*
+*Generated on 2025-06-04 19:14:59*
 
 ## Canadian police partner with AI in arms race against criminals. But at what cost?
 

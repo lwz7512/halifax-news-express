@@ -1,6 +1,6 @@
 # Global News - Halifax - 2025-05-16
 
-*Generated on 2025-05-20 18:43:59*
+*Generated on 2025-06-04 19:14:59*
 
 ## #1 N.S. missing kids: Search to resume in scoured area 2 weeks after disappearance
 

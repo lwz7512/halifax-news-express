@@ -1,6 +1,6 @@
 # City News - Atlantic - 2025-05-19
 
-*Generated on 2025-05-20 18:43:59*
+*Generated on 2025-06-04 19:14:59*
 
 ## #7 Renewed ground, air search efforts planned for missing Nova Scotia children
 

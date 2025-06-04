@@ -1,6 +1,6 @@
 # Global News - Halifax - 2025-05-11
 
-*Generated on 2025-05-20 18:43:59*
+*Generated on 2025-06-04 19:14:59*
 
 ## #1 Five people killed in collision near Falmouth, N.S. RCMP say
 

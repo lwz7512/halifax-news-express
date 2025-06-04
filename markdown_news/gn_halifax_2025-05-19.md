@@ -1,6 +1,6 @@
 # Global News - Halifax - 2025-05-19
 
-*Generated on 2025-05-20 18:43:59*
+*Generated on 2025-06-04 19:14:59*
 
 ## #1 New search for missing N.S. kids ‘will be carefully reviewed,’ RCMP say
 

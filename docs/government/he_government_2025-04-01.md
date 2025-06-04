@@ -1,6 +1,6 @@
 # Halifax Examiner - Government - 2025-04-01
 
-*Generated on 2025-05-20 18:43:59*
+*Generated on 2025-06-04 19:14:59*
 
 ## Woman who defamed nurse on Facebook ordered to pay more than $60,000
 

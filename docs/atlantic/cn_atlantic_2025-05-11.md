@@ -1,6 +1,6 @@
 # City News - Atlantic - 2025-05-11
 
-*Generated on 2025-05-20 18:43:59*
+*Generated on 2025-06-04 19:14:59*
 
 ## #10 Liberal Leader John Hogan sworn in as premier of Newfoundland and Labrador
 

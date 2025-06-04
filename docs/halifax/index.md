@@ -1,8 +1,14 @@
 # Global News Halifax
 
-Welcome to the Global News Halifax section. This section contains news and updates from Halifax and surrounding areas.
+ Welcome to the Global News Halifax section. This section contains news and updates about Halifax and Nova Scotia.
 
 # Article List for Halifax Category
+
+[Halifax 2025-06-04](gn_halifax_2025-06-04.md)
+
+[Halifax 2025-05-28](gn_halifax_2025-05-28.md)
+
+[Halifax 2025-05-24](gn_halifax_2025-05-24.md)
 
 [Halifax 2025-05-20](gn_halifax_2025-05-20.md)
 

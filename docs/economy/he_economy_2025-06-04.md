@@ -1,0 +1,82 @@
+# Halifax Examiner - Economy - 2025-06-04
+
+*Generated on 2025-06-04 19:14:59*
+
+## 'Resistance, artistic expression, and community connection': Project aims to preserve history of burlesque in Nova Scotia
+
+**Authors:** Philip Moscovitch
+
+**Published:** 2025-05-30T19:01:54+00:00
+
+**Keywords:** it’s, changed, perception, city, curious, hidden, resistance, artistic, expression, community, connection, project, aims, preserve, history, burlesque, nova, scotia
+
+**Summary:** “It’s changed my perception of the city and made me curious about what else is hidden.”
+
+**Source:** [https://www.halifaxexaminer.ca/arts-and-culture/local-history/resistance-artistic-expression-and-community-connection-project-aims-to-preserve-history-of-burlesque-in-nova-scotia/](https://www.halifaxexaminer.ca/arts-and-culture/local-history/resistance-artistic-expression-and-community-connection-project-aims-to-preserve-history-of-burlesque-in-nova-scotia/)
+
+---
+
+## The Halifax Public Gardens are the bee's knees for pollinators
+
+**Authors:** Suzanne Rent
+
+**Published:** 2025-05-30T19:19:09+00:00
+
+**Keywords:** halifax, public, gardens, bee's, knees, pollinators, interview, sean, street, horticulture, supervisor, talks, birds, bees, butterflies
+
+**Summary:** An interview with Sean Street, horticulture supervisor, who talks birds, bees, butterflies, and more.
+
+**Source:** [https://www.halifaxexaminer.ca/environment/the-halifax-public-gardens-are-the-bees-knees-for-pollinators/](https://www.halifaxexaminer.ca/environment/the-halifax-public-gardens-are-the-bees-knees-for-pollinators/)
+
+---
+
+## Here's the Halifax Examiner's tax return
+
+**Authors:** Tim Bousquet
+
+**Published:** 2025-06-02T13:14:06+00:00
+
+**Keywords:** examiner's, tax, return, halifax, nova, scotia, hydrogen, public, burlesque, examiner, project, money, gardens, line, click, 00, history, city, sails, it’s, send, item, copy, power, read, details, transit, diesel, arrives, subscribers, link, brunswick, machry, green, ship
+
+**Summary:** I personally own all the Halifax Examiner stock, but I do not take a dividend payment.
+We publish the tax returns in part to assure you that the Halifax Examiner is a shoestring operation: Money in from subscribers, money out for reporting.
+Nova Scotia – New Brunswick Intertie Nova Scotia Power has begun the financing and planning components of the Nova Scotia – New Brunswick Intertie (NS-NB Reliability Intertie) project, which is a new transmission line deepening the connection between Nova Scotia Power’s grid and New Brunswick Power’s grid.
+(Send this item: right click and copy this link) THE LATEST FROM THE HALIFAX EXAMINER: 1.
+The Halifax Public Gardens are the bee’s knees for pollinators Suzanne Rent reports: Sean Street is the horticultural supervisor at the Halifax Public Gardens.
+
+**Source:** [https://www.halifaxexaminer.ca/morning-file/heres-the-halifax-examiners-tax-return-3/](https://www.halifaxexaminer.ca/morning-file/heres-the-halifax-examiners-tax-return-3/)
+
+---
+
+## Zach Churchill – from official opposition leader to lobbyist seeking public money for a new pulp mill in N.S.
+
+**Authors:** Joan Baxter
+
+**Published:** 2025-06-02T17:54:38+00:00
+
+**Keywords:** respected, legislated, cooling, periods, contravening, conflict, interest, laws, churchill, zach, opposition, leader, lobbyist, seeking, public, money, pulp, n, s
+
+**Summary:** Churchill says he has respected legislated “cooling off” periods, and is not contravening any conflict of interest laws.
+
+**Source:** [https://www.halifaxexaminer.ca/province-house-2/zach-churchill-from-official-opposition-leader-to-lobbyist-seeking-public-money-for-a-new-pulp-mill-in-n-s/](https://www.halifaxexaminer.ca/province-house-2/zach-churchill-from-official-opposition-leader-to-lobbyist-seeking-public-money-for-a-new-pulp-mill-in-n-s/)
+
+---
+
+## Book awards week: Celebrating writing and authors
+
+**Authors:** Philip Moscovitch
+
+**Published:** 2025-06-03T14:22:51+00:00
+
+**Keywords:** week, celebrating, authors, awards, writing, book, potato, nova, scotia, ship, halifax, writers, events, it’s, item, arrives, 00, public, copy, island, online, link, award, send, click, leader, rcmp, 30, details, container, sails, point, told, poppadoms, province
+
+**Summary:** Speaking of valuing writing, it’s book awards week in Nova Scotia.
+The Nova Scotia Book Awards were held last night at the Brightwood Golf & Country Club in Dartmouth (more on that in a minute) and there is a whole slew of other events this week, leading up to the Atlantic Book Awards gala on Thursday, June 5, at the Halifax Central Library.
+(I sit ex officio on the board of the Writers’ Federation of Nova Scotia, which presents some of the awards, but had no direct involvement with any of the awards, presentations, or other events related to them).
+She also has taught writing courses for teens, with all the participants using typewriters, and says it’s gone over great.
+Churchill’s lobbying is intended to help Freeman Lumber “meet with relevant federal ministries and agencies to discuss the economic importance of the Forestry Sector in Nova Scotia,” and “the need to support forest exports to non-US markets, particularly the establishment of a new pulp mill in Nova Scotia.”… That means Churchill is lobbying on behalf of not just Freeman Lumber, but also for a coalition that includes the Nova Scotia government, for federal funding for a new pulp mill in Nova Scotia.
+
+**Source:** [https://www.halifaxexaminer.ca/morning-file/book-awards-week-celebrating-writing-and-authors/](https://www.halifaxexaminer.ca/morning-file/book-awards-week-celebrating-writing-and-authors/)
+
+---
+

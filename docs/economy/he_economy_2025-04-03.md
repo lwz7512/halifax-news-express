@@ -1,6 +1,6 @@
 # Halifax Examiner - Economy - 2025-04-03
 
-*Generated on 2025-05-20 18:43:59*
+*Generated on 2025-06-04 19:14:59*
 
 ## The institution is not more important than its mission: what child sex abuse and American universities teach us about dealing with fascism
 

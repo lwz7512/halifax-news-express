@@ -1,6 +1,6 @@
 # Halifax Examiner - Economy - 2025-05-11
 
-*Generated on 2025-05-20 18:43:59*
+*Generated on 2025-06-04 19:14:59*
 
 ## There's an ethical obligation to include affordable housing in all that development happening on what used to be the Dartmouth Common
 
